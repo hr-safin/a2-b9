@@ -348,13 +348,17 @@ margin: auto;
     padding-left: 370px;
     padding-right: 370px;
     margin-bottom: 100px;
+    text-align: center;
 }
 
 .deals-img{
     padding-right: none;
     padding-left: 100px;
     margin-top: 20px;
-   
+    width: 95%;
+    margin: auto;
+    position: relative;
+    margin-bottom: 30px;
 }
 
 .see-more{
@@ -398,6 +402,26 @@ margin: auto;
     font-size: 18px;
     border-radius: 10px;
     border: none;
+}
+
+.deal-div{
+    background-color: rgb(132, 130, 130);
+    padding: 30px;
+    width: 550px;
+    margin-top: -400px;
+    border-radius: 10px;
+    margin-left: 40px;
+    z-index: 40px;
+    position: absolute;
+
+}
+
+
+.book{
+    background-color: orangered;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
 }
 
 /* section 7 */
