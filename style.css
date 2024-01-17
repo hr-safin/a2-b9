@@ -637,6 +637,25 @@ margin: auto;
     margin-left: -500px;
     width: 300px;
 }
+
+.sec5-p1{
+    width: 500px;
+}
+
+.sec5-p1{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.footer{
+    padding: 10px;
+}
+
+.foot-para{
+    width: 400px;
+}
 }
 /* for small device */
 
